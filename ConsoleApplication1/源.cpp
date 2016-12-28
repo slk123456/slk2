@@ -18,6 +18,7 @@ int main() {
 				sum += 5;
 		}
 		cout << sum << endl;
+		cout << endl;
 	}
 	return 0;
 }
